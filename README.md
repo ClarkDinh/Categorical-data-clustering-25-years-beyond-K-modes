@@ -3,6 +3,9 @@
 ## Overview
 This repository collects Python source codes for clustering categorical data from GitHub. It provides a platform to evaluate and compare various clustering algorithms.
 
+## Algorithms
+1. 
+
 ## Datasets Evaluated
 We confirm the performance of the clustering algorithms using the following commonly used datasets:
 - Mushroom
