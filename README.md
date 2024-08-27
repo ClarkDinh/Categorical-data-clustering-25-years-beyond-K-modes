@@ -26,10 +26,18 @@ This repository collects Python source codes for clustering categorical data fro
 - Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
 - Link to Github:
 8. K-PbC (2020)
-- Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
-- Link to Github:
-
-- 
+- Link to the paper: https://link.springer.com/article/10.1007/s10489-020-01677-5
+- Link to Github: https://github.com/ClarkDinh/k-PbC
+9. LSH K-representatives (2021)
+- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0925231221012340
+- Link to Github: https://github.com/nmtoan91/lshkrepresentatives
+10. GT-Kmodes (2021)
+- Link to the paper: https://www.sciencedirect.com/science/article/pii/S2666827021000505#sec3
+- Link to Github: https://github.com/srimantacse/ShapleyCategorical/tree/main/src
+11. MIS (2022)
+- Link to the paper: https://link.springer.com/chapter/10.1007/978-3-031-17114-7_16
+- Link to Github: https://github.com/c4sgub/MIS_Categorical_Clustering
+  
 ## Datasets Evaluated
 We confirm the performance of the clustering algorithms using the following commonly used datasets:
 - Mushroom
