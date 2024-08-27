@@ -25,23 +25,25 @@ This repository collects Python source codes for clustering categorical data fro
 7. MGR (2014)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
 - Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering
-8. 
-6. MFK-means (2018)
+8. EGA FMC (2018)
+- Link to the paper: https://dl.acm.org/doi/10.1504/IJBIC.2018.092801
+- Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering  
+9. MFK-means (2018)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
-- Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering
-7. K-means like (2019)
+- Link to Github: https://github.com/medhini/Genetic-Algorithm-Fuzzy-K-Modes
+10. K-means like (2019)
 - Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
 - Link to Github:
-8. K-PbC (2020)
+11. K-PbC (2020)
 - Link to the paper: https://link.springer.com/article/10.1007/s10489-020-01677-5
 - Link to Github: https://github.com/ClarkDinh/k-PbC
-9. LSH K-representatives (2021)
+12. LSH K-representatives (2021)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0925231221012340
 - Link to Github: https://github.com/nmtoan91/lshkrepresentatives
-10. GT-Kmodes (2021)
+  3. GT-Kmodes (2021)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S2666827021000505#sec3
 - Link to Github: https://github.com/srimantacse/ShapleyCategorical/tree/main/src
-11. MIS (2022)
+14. MIS (2022)
 - Link to the paper: https://link.springer.com/chapter/10.1007/978-3-031-17114-7_16
 - Link to Github: https://github.com/c4sgub/MIS_Categorical_Clustering
   
