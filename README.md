@@ -19,7 +19,7 @@ This repository collects Python source codes for clustering categorical data fro
 
 4. **K-representatives (2004)**
    - [Link to the paper](https://tinyurl.com/3vhthhbr)
-   - Link to GitHub: (Not provided)
+   - [Link to GitHub](https://github.com/ClarkDinh/Categorical-data-clustering-25-years-beyond-K-modes/blob/main/Krepresentatives_algo.py)
 
 5. **K-modes Cao (2009)**
    - [Link to the paper](https://www.sciencedirect.com/science/article/pii/S0957417409001043)
@@ -43,7 +43,7 @@ This repository collects Python source codes for clustering categorical data fro
 
 10. **K-means Like Algorithm (2019)**
     - [Link to the paper](https://link.springer.com/article/10.1007/s12652-019-01445-5)
-    - Link to GitHub: (Not provided)
+    - [Link to GitHub](https://github.com/ClarkDinh/Categorical-data-clustering-25-years-beyond-K-modes/blob/main/Kmeans_like_algo.py)
 
 11. **K-PbC (2020)**
     - [Link to the paper](https://link.springer.com/article/10.1007/s10489-020-01677-5)
