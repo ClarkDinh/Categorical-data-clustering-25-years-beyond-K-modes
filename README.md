@@ -62,7 +62,7 @@ We use four external validation metrics for comparison:
 - **Adjusted Rand Index (ARI)**
 
 ## Usage
-[Provide instructions on how to use the code, if applicable.]
+The results are maintained in the notebook: compare_clustering_algos_GitHub
 
 ## Installation
 [Provide installation instructions if needed.]
