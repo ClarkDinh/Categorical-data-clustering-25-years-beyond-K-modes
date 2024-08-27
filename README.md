@@ -82,3 +82,10 @@ The results are maintained in the notebook: [compare_clustering_algos_GitHub](ht
 Install the required libraries and packages to run the notebook:
 ```bash
 pip install kmodes pyclustering lshkrepresentatives xlsxwriter numpy pandas tqdm matplotlib
+```
+
+## Citation
+
+Please cite the following paper:
+
+    Tai Dinh, Wong Hauchi, Philippe Fournier-Viger, Daniil Lisik, Hieu-Chi Dam, Van-Nam Huynh (2024). Categorical Data Clustering: 25 Years Beyond K-modes
