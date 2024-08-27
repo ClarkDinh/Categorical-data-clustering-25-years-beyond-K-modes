@@ -81,4 +81,4 @@ The results are maintained in the notebook: [compare_clustering_algos_GitHub](ht
 ## Installation
 Install the required libraries and packages to run the notebook:
 ```bash
-pip install kmodes pyclustering lshkrepresentatives xlsxwriter
+pip install kmodes pyclustering lshkrepresentatives xlsxwriter numpy pandas tqdm matplotlib
