@@ -62,7 +62,7 @@ We use four external validation metrics for comparison:
 - **Adjusted Rand Index (ARI)**
 
 ## Usage
-The results are maintained in the notebook: compare_clustering_algos_GitHub
+The results are maintained in the notebook: [compare_clustering_algos_GitHub](https://github.com/ClarkDinh/Categorical-data-clustering-25-years-beyond-K-modes/blob/main/compare_clustering_algos_GitHub.ipynb)
 
 ## Installation
 [Provide installation instructions if needed.]
