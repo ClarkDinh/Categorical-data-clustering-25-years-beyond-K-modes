@@ -65,15 +65,14 @@ We use four external validation metrics for comparison:
 The results are maintained in the notebook: [compare_clustering_algos_GitHub](https://github.com/ClarkDinh/Categorical-data-clustering-25-years-beyond-K-modes/blob/main/compare_clustering_algos_GitHub.ipynb)
 
 ## Installation
-[Provide installation instructions if needed.]
-
-## Contributing
-[Include guidelines for contributing to the repository.]
+Install some libraries and packages to run the notebook:
+pip install kmodes pyclustering lshkrepresentatives xlsxwriter
 
 ## License
-[Specify the license under which the code is distributed.]
+MIT license
 
-## Contact
-[Provide contact information or links for further inquiries.]
+## Citation:
+Please cite the following paper:
+Tai Dinh, Wong Hauchi, Philippe Fournier-Viger, Daniil Lisik, Hieu-Chi Dam, Van-Nam Huynh (2024). Categorical Data Clustering: 25 Years Beyond K-modes
 
 
