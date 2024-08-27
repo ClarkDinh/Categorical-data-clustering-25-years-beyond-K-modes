@@ -10,15 +10,22 @@ This repository collects Python source codes for clustering categorical data fro
 2. Fuzzy K-modes (1999)
 - Link to the paper: https://ieeexplore.ieee.org/document/784206
 - Link to Github: https://github.com/srimantacse/ShapleyCategorical/tree/main/src
-3. K-representatives (2004)
+3. ROCK (2000)
+- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0306437900000223
+- Link to Github: https://github.com/annoviko/pyclustering/blob/master/pyclustering/cluster/rock.py
+4. K-representatives (2004)
 - Link to the paper: https://tinyurl.com/3vhthhbr
 - Link to Github:
-4. K-modes Cao (2009)
+5. K-modes Cao (2009)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0957417409001043
 - Link to Github: https://github.com/nicodv/kmodes
-5. MGR (2014)
+6. Genetic fuzzy K-modes (2009)
+- Link to the paper: https://www.sciencedirect.com/science/article/pii/S0957417407005957
+- Link to Github: https://github.com/V-Rang/Fuzzy-clustering
+7. MGR (2014)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
 - Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering
+8. 
 6. MFK-means (2018)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
 - Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering
