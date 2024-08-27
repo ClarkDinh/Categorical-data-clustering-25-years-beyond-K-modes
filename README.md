@@ -31,7 +31,7 @@ This repository collects Python source codes for clustering categorical data fro
 9. MFK-means (2018)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
 - Link to Github: https://github.com/medhini/Genetic-Algorithm-Fuzzy-K-Modes
-10. K-means like (2019)
+10. K-means like algorithm (2019)
 - Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
 - Link to Github:
 11. K-PbC (2020)
