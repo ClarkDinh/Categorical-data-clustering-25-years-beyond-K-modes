@@ -22,7 +22,14 @@ This repository collects Python source codes for clustering categorical data fro
 6. MFK-means (2018)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0045790617327131
 - Link to Github: https://github.com/vatsarishabh22/MFk-M-Clustering
+7. K-means like (2019)
+- Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
+- Link to Github:
+8. K-PbC (2020)
+- Link to the paper: https://link.springer.com/article/10.1007/s12652-019-01445-5
+- Link to Github:
 
+- 
 ## Datasets Evaluated
 We confirm the performance of the clustering algorithms using the following commonly used datasets:
 - Mushroom
