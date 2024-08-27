@@ -40,7 +40,7 @@ This repository collects Python source codes for clustering categorical data fro
 12. LSH K-representatives (2021)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S0925231221012340
 - Link to Github: https://github.com/nmtoan91/lshkrepresentatives
-  3. GT-Kmodes (2021)
+13. GT-Kmodes (2021)
 - Link to the paper: https://www.sciencedirect.com/science/article/pii/S2666827021000505#sec3
 - Link to Github: https://github.com/srimantacse/ShapleyCategorical/tree/main/src
 14. MIS (2022)
