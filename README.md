@@ -87,5 +87,12 @@ pip install kmodes pyclustering lshkrepresentatives xlsxwriter numpy pandas tqdm
 ## Citation
 
 Please cite the following paper:
-
-    Tai Dinh, Wong Hauchi, Philippe Fournier-Viger, Daniil Lisik, Hieu-Chi Dam, Van-Nam Huynh (2024). Categorical Data Clustering: 25 Years Beyond K-modes
+@misc{dinh2024categoricaldataclustering25,
+      title={Categorical data clustering: 25 years beyond K-modes}, 
+      author={Tai Dinh and Wong Hauchi and Philippe Fournier-Viger and Daniil Lisik and Minh-Quyet Ha and Hieu-Chi Dam and Van-Nam Huynh},
+      year={2024},
+      eprint={2408.17244},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.17244}, 
+}
