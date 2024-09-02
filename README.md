@@ -1,6 +1,8 @@
 # Categorical Data Clustering: 25 Years Beyond K-modes
 
 ## Overview
+The clustering of categorical data is a common and important task in computer science, offering profound implications across a spectrum of applications. Unlike purely numerical datasets, categorical data often lack inherent ordering as in nominal data, or have varying levels of order as in ordinal data, thus requiring specialized methodologies for efficient organization and analysis. This review provides a comprehensive synthesis of categorical data clustering in the past twenty-five years, starting from the introduction of K-modes. It elucidates the pivotal role of categorical data clustering in diverse fields such as health sciences, natural sciences, social sciences, education, engineering and economics. Practical comparisons are conducted for algorithms having public implementations, highlighting distinguishing clustering methodologies and revealing the performance of recent algorithms on several benchmark categorical datasets. Finally, challenges and opportunities in the field are discussed.
+
 This repository collects Python source codes for clustering categorical data from GitHub. It provides a platform to evaluate and compare various clustering algorithms.
 
 ## Algorithms
