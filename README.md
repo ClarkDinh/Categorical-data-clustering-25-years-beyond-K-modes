@@ -86,7 +86,7 @@ pip install kmodes pyclustering lshkrepresentatives xlsxwriter numpy pandas tqdm
 
 ## Citation
 
-Please cite the following paper:
+```bash
 @misc{dinh2024categoricaldataclustering25,
       title={Categorical data clustering: 25 years beyond K-modes}, 
       author={Tai Dinh and Wong Hauchi and Philippe Fournier-Viger and Daniil Lisik and Minh-Quyet Ha and Hieu-Chi Dam and Van-Nam Huynh},
@@ -96,3 +96,4 @@ Please cite the following paper:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2408.17244}, 
 }
+```
